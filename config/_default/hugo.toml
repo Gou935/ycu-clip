@@ -3,7 +3,8 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://ycu-clip.netlify.app/"
+baseURL = "https://gou935.github.io/ycu-clip/"
+"
 defaultContentLanguage = "ja"
 publishDir = "docs"
 
