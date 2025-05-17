@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>横浜市立大学ーパソコン部</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on 横浜市立大学ーパソコン部</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>YCU-CLip</copyright>
-    <lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>自己紹介</title>
-      <link>http://localhost:1313/posts/first-post/</link>
+      <link>https://example.org/posts/first-post/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/first-post/</guid>
+      <guid>https://example.org/posts/first-post/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/first-post/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/first-post/featured.jpg" />
     </item>
     
   </channel>
