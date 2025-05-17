@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://gou935.github.io/"
+baseURL = "https://gou935.github.io/ycu-clip/"
 defaultContentLanguage = "ja"
 publishDir = "docs"
 
