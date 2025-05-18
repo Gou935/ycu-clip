@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>音遊共通 on 横浜市立大学ーパソコン部</title>
+    <link>http://localhost:1313/ycu-clip/categories/%E9%9F%B3%E9%81%8A%E5%85%B1%E9%80%9A/</link>
+    <description>Recent content in 音遊共通 on 横浜市立大学ーパソコン部</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>© 2025 YCU-CLip</copyright>
+    <lastBuildDate>Sun, 10 Dec 2023 14:50:51 +0900</lastBuildDate><atom:link href="http://localhost:1313/ycu-clip/categories/%E9%9F%B3%E9%81%8A%E5%85%B1%E9%80%9A/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>音樂遊戲術語介紹</title>
+      <link>http://localhost:1313/ycu-clip/docs/rhythm-game-terms/</link>
+      <pubDate>Sun, 10 Dec 2023 14:50:51 +0900</pubDate>
+      
+      <guid>http://localhost:1313/ycu-clip/docs/rhythm-game-terms/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/ycu-clip/docs/rhythm-game-terms/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

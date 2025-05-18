@@ -16,10 +16,14 @@
   weight = 1
 
 [[main]]
-  name = "活動紹介"
-  pageRef = "posts"
+  name = "DOCS"
+  pageRef = "docs"
   weight = 2
 
+[[main]]
+  name = "BLOG"
+  pageRef = "posts"
+  weight = 3
 
 [[main]]
   name = "ABOUT"
