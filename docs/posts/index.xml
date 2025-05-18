@@ -7,7 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2025 YCU-CLip</copyright>
+<<<<<<< HEAD
     <lastBuildDate>Sat, 17 May 2025 13:20:50 +0900</lastBuildDate><atom:link href="https://gou935.github.io/ycu-clip/posts/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <lastBuildDate>Sun, 18 May 2025 15:51:42 +0900</lastBuildDate><atom:link href="http://localhost:1313/ycu-clip/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>文章テスト</title>
+      <link>http://localhost:1313/ycu-clip/posts/test/</link>
+      <pubDate>Sun, 18 May 2025 15:51:42 +0900</pubDate>
+      
+      <guid>http://localhost:1313/ycu-clip/posts/test/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/ycu-clip/posts/test/featured.jpg.jpg" />
+    </item>
+>>>>>>> b6f428e5475bc40b216ce77e0c4c096d43fe77f8
     
     <item>
       <title>今週の活動</title>
