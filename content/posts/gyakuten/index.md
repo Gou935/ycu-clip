@@ -12,5 +12,5 @@ draft: false
 音声テスト
 
 <audio controls>
-  <source src="audio/gyakuten.mp3" type="audio" />
+  <source src="audio/gyakuten.mp3" type="audio/mpeg" />
 </audio>
