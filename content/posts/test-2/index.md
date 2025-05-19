@@ -11,9 +11,4 @@ draft: false
 
 {{< youtube id="PgfT41ePuXY" title="" >}}
 
-這是測試 2
-
-<figure>
-  <img class="thumbnailshadow" src="img/anmitsu.jpg" width="450" alt="" />
-  <figcaption style="font-size: 1.2rem;"></figcaption>
-</figure>
+Youtube link checked.
