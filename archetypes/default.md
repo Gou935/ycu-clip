@@ -11,3 +11,7 @@ draft: false
   <img class="thumbnailshadow" src="img/.jpg" width="450" alt="" />
   <figcaption style="font-size: 1.2rem;"></figcaption>
 </figure>
+
+<!-- Youtubeのリンクを入れてください -->
+
+{{< youtube id="" title="" >}}
