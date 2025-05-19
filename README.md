@@ -31,4 +31,6 @@ draft: false
 </figure>
 ```
 
-test
+## Memos
+
+`git pull --rebase`
